@@ -1,36 +1,40 @@
-# Hi there! I'm K.S.T. Ramya Sri 👋
+# 🌸 K.S.T. Ramya Sri 🇯🇵
+## 💻 Developer | CSE Student
 
-### 🚀 B.Tech Computer Science Engineering Student
-I am a logic-driven developer focused on building high-quality, actionable systems. I don't just write code; I architect solutions.
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KSTRamyaSri&show_icons=true&theme=nord&hide_border=true" alt="KSTRamyaSri Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSTRamyaSri&layout=compact&theme=nord&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-| Category | Tech & Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,react,fastapi,django,docker,git,linux,html,css&theme=light" />
+  </a>
+</p>
 
 ---
 
-### 📊 My GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+### 🔥 Coding Streak & Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
-
----
-
-### 🔥 Coding Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSTRamyaSri&theme=nord&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🌟 Featured Projects
-- **Eligible** - Job-matching platform (Team Lead).
-- **Netflix Smart Dashboard** - Recommendation system with Streamlit.
-- **Smart Calculator** - Full-stack FastAPI + React application.
-
----
-
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kstramyasri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/25a35a0535/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
