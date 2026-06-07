@@ -91,3 +91,7 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KSTRamyaSri/KSTRamyaSri/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+---
