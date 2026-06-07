@@ -1,10 +1,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KSTRamyaSri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
 
-  <h1>Hi 👋, I'm K.S.T. Ramya Sri</h1>
-  <a href="https://github.com/KSTRamyaSri">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student+(3RD+Year);Learning+Artificial+Intelligence+%26+ML;Exploring+Generative+AI+%26+LLMs;Data+Science+Enthusiast" alt="Typing Animation" />
-  </a>
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+K.S.T.+Ramya+Sri;Welcome+to+my+Portfolio!" alt="Typing Greeting" />
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student+(2nd+Year);Learning+Artificial+Intelligence+%26+ML;Exploring+Generative+AI+%26+LLMs;Data+Science+Enthusiast" alt="Typing Subtitle" />
+</div>
+
+
+<br>
+  
 
   <p>Passionate software engineering student with a strong foundation in full-stack development, algorithms, and system design. Always eager to build impactful projects and solve complex problems.</p>
 
@@ -22,9 +27,45 @@
   </a>
 </div>
 
----
+<br>
 
-### 🧰 Tech Stack & Tools
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="Black Divider" width="100%" />
+<br>
+
+###  Academic Journey
+
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/Degree-B.Tech_CSE-00599C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Degree" />
+      </td>
+      <td width="80%">
+        <h3>Pragati Engineering College</h3>
+        <p><b>Major:</b> Computer Science and Engineering</p>
+        <p><b>Current Status:</b> 3rd Year, 5th Semester</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/Degree-Diploma_CME-00599C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Degree" />
+      </td>
+      <td width="80%">
+        <h3>Andhra Polytechnic</h3>
+        <p><b>Major:</b> Computer Engineering</p>
+        <p><b>Current Status:</b> Passed Out 2022-25</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="Black Divider" width="100%" />
+<br>
+
+###  Tech Stack & Tools
+
 
 <div align="center">
 
@@ -58,22 +99,30 @@
   <img src="https://img.shields.io/badge/tmux-1BBC9B?style=flat-square&logo=tmux&logoColor=white" alt="tmux" />
 
 </div>
+<br>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="Divider" width="100%" />
 
-### 📂 Featured Projects
+<br>
 
-| 🏆 Project Name | 🧰 Tech Stack | 📝 Description |
+### Featured Projects
+
+<br>
+
+|  Project Name |  Tech Stack |  Description |
 | :--- | :--- | :--- |
 | **Course Enrollment System** | `React.js` `Tailwind` `Flask` `PostgreSQL` | A robust full-stack web application featuring a Kanban board task management system on GitHub for dynamic course flows and student tracking. |
 | **Netflix Smart Dashboard** | `Python` `Streamlit` `TMDB API` | An interactive movie recommendation dashboard that fetches and visualizes real-time entertainment data using the TMDB API. |
 | **Eligible (Job-Matching)** | `HTML/CSS` `JS` `PHP` `MySQL` | **Role: Team Lead** <br> A comprehensive platform engineered for automated job matching, applicant filtering, and seamless recruiter-candidate connection. |
 | **BudgetSense** | `PHP` `MySQL` `Tailwind CSS` | A dedicated student budgeting web application engineered to track and manage personal financial resources effectively. |
 
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="Divider" width="100%" />
+<br>
 
-### 📊 GitHub & Coding Activity
+###  GitHub & Coding Activity
 
+<br>
 <div align="center">
 
 <a href="https://github.com/KSTRamyaSri">
@@ -90,8 +139,19 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="Divider" width="100%" />
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/KSTRamyaSri/KSTRamyaSri/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
----
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="Divider" width="100%" />
+
+<br>
+<br>
+
+<div> 
+<h4>Thank You</h4>
+</div>
+
