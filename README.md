@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=KSTRamyaSri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
 
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+K.S.T.+Ramya+Sri;Welcome+to+my+Portfolio!" alt="Typing Greeting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=100&lines=Hi+There!;I'm+K.S.T.+Ramya+Sri;Welcome+to+my+Portfolio!" alt="Typing Greeting" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student+(3rd+Year);Learning+Artificial+Intelligence+%26+ML;Exploring+Generative+AI+%26+LLMs;Data+Science+Enthusiast" alt="Typing Subtitle" />
 </div>
@@ -10,6 +10,7 @@
 
 <br>
   
+
 
   <p>Passionate software engineering student with a strong foundation in full-stack development, algorithms, and system design. Always eager to build impactful projects and solve complex problems.</p>
 
